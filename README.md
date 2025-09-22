@@ -1,8 +1,13 @@
-# ZathenaVentures-3D-App
+# ZathenaVentures-3D-App Public Version
 
-This is a **public version** of the private repository. It contains general information about the project but omits any deployment, credentials, or sensitive internal processes.
+![](https://avatars.githubusercontent.com/u/125342283?s=400&v=4)
 
-**Project Description:**  
+**This is a public version of the private repository.**  
+It contains general information about the project but omits any deployment, credentials, or internal processes.
 
+## Project Description
+The official 3D environment application for Zathena Ventures, a digital development agency bringing ideas to reality
 
-Website: 
+## Website
+https://app.zathenaventures.xyz
+
